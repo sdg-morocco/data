@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--Created with SDMX Converter v10.0.4-->
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=MA1:SDG(1.0):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <message:Header>
+    <message:ID>IREF1707315831554</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2024-02-07T00:00:00Z</message:Prepared>
+    <message:Sender id="BIS"/>
+    <message:Structure structureID="MA1_SDG_1_0" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=MA1:SDG(1.0):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
+      <common:Structure>
+        <Ref agencyID="MA1" id="SDG" version="1.0"/>
+      </common:Structure>
+    </message:Structure>
+    <message:DataSetAction>Information</message:DataSetAction>
+    <message:DataSetID>SDG</message:DataSetID>
+  </message:Header>
+  <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="MA1_SDG_1_0" ss:action="Information">
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_ALC_CONSPT" REF_AREA="MA" SEX="_T" AGE="Y18T29" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2017" OBS_VALUE="1.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="Minstère de la Santé"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_ALC_CONSPT" REF_AREA="MA" SEX="_T" AGE="Y30T44" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2017" OBS_VALUE="2.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="Minstère de la Santé"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_ALC_CONSPT" REF_AREA="MA" SEX="_T" AGE="Y45T59" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2017" OBS_VALUE="1.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="Minstère de la Santé"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_ALC_CONSPT" REF_AREA="MA" SEX="_T" AGE="Y60T69" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2017" OBS_VALUE="0.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="Minstère de la Santé"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_ALC_CONSPT" REF_AREA="MA" SEX="_T" AGE="Y_GE70" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2017" OBS_VALUE="0.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="Minstère de la Santé"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_ALC_CONSPT" REF_AREA="MA" SEX="_T" AGE="_T" URBANISATION="U" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2017" OBS_VALUE="2.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="Minstère de la Santé"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_ALC_CONSPT" REF_AREA="MA" SEX="_T" AGE="_T" URBANISATION="R" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2017" OBS_VALUE="0.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="Minstère de la Santé"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SH_ALC_CONSPT" REF_AREA="MA" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2016" OBS_VALUE="0.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2016" SOURCE_DETAIL="Minstère de la Santé"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="0.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2017" SOURCE_DETAIL="Minstère de la Santé"/>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="0.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2019" SOURCE_DETAIL="Minstère de la Santé"/>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="0.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="C" TIME_DETAIL="2020" SOURCE_DETAIL="Minstère de la Santé"/>
+  </Series>
+</message:DataSet>
+</message:StructureSpecificData>
