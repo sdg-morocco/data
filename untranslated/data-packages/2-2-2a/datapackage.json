@@ -1,0 +1,28 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-2a",
+  "title": "Prévalence de la malnutrition émaciation (indice poids/taille supérieur à +2 écarts types ou inférieur à -2 écarts types par rapport à la médiane des normes de croissance de l’enfant définies par l’OMS chez les enfants de moins de 5 ansl’enfant définies par l’OMS chez les enfants de moins de 5 ans"
+}
