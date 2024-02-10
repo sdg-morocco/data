@@ -9,7 +9,8 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - es
+  - fr
+  - ar
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
