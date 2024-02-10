@@ -1,4 +1,4 @@
-Year,REF_AREA,SEX,URBANISATION,Value
+Year,Reference area,Sex,Degree of urbanisation,Value
 2001,MA01,,,46.4
 2007,MA01,,,22.9
 2014,MA01,,,10.0
@@ -32,15 +32,15 @@ Year,REF_AREA,SEX,URBANISATION,Value
 2001,,,,43.6
 2007,,,,24.1
 2014,,,,11.0
-2001,,M,,43.5
-2007,,M,,23.6
-2014,,M,,10.7
-2001,,F,,43.8
-2007,,F,,24.6
-2014,,F,,11.4
-2001,,,U,11.8
-2007,,,U,6.1
-2014,,,U,2.4
-2001,,,R,74.0
-2007,,,R,46.9
-2014,,,R,22.0
+2001,,Male,,43.5
+2007,,Male,,23.6
+2014,,Male,,10.7
+2001,,Female,,43.8
+2007,,Female,,24.6
+2014,,Female,,11.4
+2001,,,Urban,11.8
+2007,,,Urban,6.1
+2014,,,Urban,2.4
+2001,,,Rural,74.0
+2007,,,Rural,46.9
+2014,,,Rural,22.0
