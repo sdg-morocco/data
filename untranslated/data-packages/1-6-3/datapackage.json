@@ -15,42 +15,42 @@
             "type": "integer"
           },
           {
-            "name": "REF_AREA",
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "MA01",
-                "MA02",
-                "MA03",
-                "MA04",
-                "MA05",
-                "MA06",
-                "MA07",
-                "MA08",
-                "MA09",
-                "MA_10T12",
+                "Tanger-Tetouan-Al Hoceima",
+                "Oriental",
+                "Fès-Meknès",
+                "Rabat-Salé-Kénitra",
+                "Béni Mellal-Khénifra",
+                "Grand Casablanca-Settat",
+                "Marrakech-Safi",
+                "Drâa-Tafilalet",
+                "Souss-Massa",
+                "Régions du sud",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
